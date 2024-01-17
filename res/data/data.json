@@ -1,0 +1,30 @@
+[
+{
+    "name": "Liskova",
+    "subjects": "Math",
+    "favWords": "Kompozice",
+    "title" : "RNDr. ",
+    "favStudents": ["Ondra", "UnrealFrafta", "Hlavis"]
+},
+{
+    "name": "Stepan",
+    "subjects": "Java",
+    "favWords": "Dobry den, já vás vítám",
+    "title" : "Mgr. ",
+    "favStudents": ["Hloušek", "Lukáš", "Michal"]
+},
+{
+    "name": "El mistero Charles",
+    "subjects": "English",
+    "favWords": "Prezentace",
+    "title" : "RNDr. ",
+    "favStudents": ["Všichni"]
+},
+{
+    "name": "Gabča",
+    "subjects": "PE",
+    "favWords": "Dej si dvacet",
+    "title" : "Mgr. ",
+    "favStudents": ["Standa", "Kulda", "Hlavis"]
+}
+]
